@@ -1,3 +1,5 @@
+(I'm leaving it here just as a reminder, to see how much I've improved since then) 🤓
+
 # Card-Evaluator
 
 This program searches the value of a card by making a request to the respective websites.
